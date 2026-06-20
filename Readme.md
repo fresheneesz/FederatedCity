@@ -20,13 +20,13 @@ This set of legal documents creates a federated government system that has the f
 
 ### Documents
 
-* [City Constitution](City Constitution.md)
-* [Recommended City Laws](Recommended City Laws.md) - A very incomplete set of law ideas for the city level government.
+* [City Constitution](City%20Constitution.md)
+* [Recommended City Laws](Recommended%20City%20Laws.md) - A very incomplete set of law ideas for the city level government.
 * Recommended Constitutions & Legal Codes for sub-governments
-  * [Borough Constitution](Recommended Borough Constitution.md)
-  * [Borough Laws](Recommended Borough Laws.md)
-* Suggested [Private Legal Code](Recommended Private Legal Code.md) - A legal code intended to replace common law and standard statutory laws. It can do this with such a small legal code because all court ordered remedies must be based on assessments of actual harm done, statements are interpreted in ways a reasonable person would understand the text of statutes that the defendant believes is most favorable to theirself, courts are empowered to resolve ambiguities using statute-based logic in a non-precedent-setting manor, and fairness is achieved through competition between private court companies rather than through precedent and judicial activism. 
-* Suggested [Private Institutions](Recommended Private Institutions.md) - A document that has recommendations for company policy of private institutions like private courts, private police, etc. 
+  * [Borough Constitution](Recommended%20Borough%20Constitution.md)
+  * [Borough Laws](Recommended%20Borough%20Laws.md)
+* Suggested [Private Legal Code](Recommended%20Private%20Legal%20Code.md) - A legal code intended to replace common law and standard statutory laws. It can do this with such a small legal code because all court ordered remedies must be based on assessments of actual harm done, statements are interpreted in ways a reasonable person would understand the text of statutes that the defendant believes is most favorable to theirself, courts are empowered to resolve ambiguities using statute-based logic in a non-precedent-setting manor, and fairness is achieved through competition between private court companies rather than through precedent and judicial activism. 
+* Suggested [Private Institutions](Recommended%20Private%20Institutions.md) - A document that has recommendations for company policy of private institutions like private courts, private police, etc. 
 
 ### Other
 
