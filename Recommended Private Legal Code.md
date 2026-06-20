@@ -38,11 +38,11 @@ Full ownership is defined as the right to use, move, exclude the use of, transfe
 
 To be considered a legal contract, it must have gone through the following steps:
 
-**3.1** An **Offer** in the form of definite terms on when the contract is in effect and what effect the contract has. Ambiguities can be resolved using common industry practices, past dealings, legislated defaults, objective evidence of intent, the reasonableness standard, or fairness. The contract must describe an exchange of value (the contractual "consideration"), not including pre-existing obligations. If one party suspects certain contract terms might not be beneficial for the other person, they have a duty to voice that concern, and if the concern is not voiced that is defined as harm at half the cost of what would be estimated if the harm was caused by an active lie. 
+**3.1** An **Offer** in the form of a communication definite enough to determine when the contract is in effect and what effect the contract has. Ambiguities can be resolved using common industry practices, past dealings, legislated defaults, objective evidence of intent, the reasonableness standard, or fairness. If one party suspects certain contract terms might not be beneficial for the other person and that person does not realize it, they have a duty to voice that concern, and if the concern is not voiced that is defined as harm at half the cost of what would be estimated if the harm was caused by an active lie. 
 
 * *Justification: half the cost in comparison to fraud is because a lie of omission is less likely to cause harm than an active lie.*
 
-**3.2** An **acceptance** making clear the intention to create legal relations. This can be verbally, in writing, or through conduct that clearly implies acceptance of the contract that would not make sense without the contract terms (eg beginning to fulfill contractual obligations, usage of offered contractual benefits, or continuing business after notification of new contractual terms). Context, language, actions, and negotiation history can affect clearness of acceptance (eg a business context is more likely to be contractual than a social context). 
+**3.2** An **acceptance** making clear the intention to accept the offer as given. This can be verbally, in writing, or through conduct that clearly implies acceptance of the contract that would not make sense without the contract terms (eg beginning to fulfill contractual obligations, usage of offered contractual benefits, or continuing business after notification of new contractual terms). Context, language, actions, and negotiation history can affect clearness of acceptance (eg a business context is more likely to be contractual than a social context). 
 
 ## Acceptance legality
 
@@ -147,14 +147,20 @@ Nuisances are harm as a result of distracting, unpleasant, or disrupting matter 
 ​				b. `S` is doubled if the light lasts longer than 1 minute in a 10-minute period.
 ​					*Justification: Short light exposures have a much smaller circadian rhythm affect.*
 
-​			e. All lumen and 
-
 ​		**4.3.2.4** **Vibrations** in the frequency range of 1-100Hz.  `S = vibration/vibrationLimit/10` where `vibration` is the inches per second of vibration caused. 
 
 ​			a. In a zone officially designated as industrial, `vibrationLimit` is 0.01 inches per second.
 ​			b. In any other area,  `vibrationLimit` is 0.1 inches per second.
 
-​		**4.3.2.5** **Other matter and energy**. Any other energy or matter that causes a nuisance, either because it collides with the affected person or their property in ways that a reasonable person would find distracting, unpleasant, worrying, or disruptive.
+​		**4.3.2.5** **Heat**. The scale `S = P * (1.45 - 0.5*D^(1.4/10)) * (T-70) / 100 million` where
+
+​            `P` is the heat output power in kilowatts, 
+​            `D` is the distance from the source in feet (with a minimum of 1), and 
+​            `T` is the outdoor temperature in Fahrenheit (with a minimum of 70).
+
+​           *Justification: Emitting heat into the air causes a number of costs for others, including increased air-conditioning costs, outdoor discomfort, prevents people from opening windows to the outside, and temperature stress on frail people. For example, for every gigajoule of heat energy output, assuming 5% of it is absorbed into neighboring buildings, that would lead to about 50 cents of additional cooling cost. S scales with the heat power because the nuisance equation multiplies by time, turning it into heat energy, which correlates with how much affect on the temperature the heat has. The distance from the source matters because heat disperses farther from the source, both because of the inverse square law and because it disperses up into the atmosphere where it has less local effects. The temperature is taken into account because additional heat is more unpleasant the hotter it already is outside. The constant 100 million is made up of the following parts: 5 cents/GJ output / 5 (dividing the temperature multiplier by 5) / 1000000 (GJ/s) per kW. Note some studies on air conditioning contribution to urban heat: https://www.sciencedirect.com/science/article/abs/pii/S1359431108001725 and https://www.smithsonianmag.com/smart-news/how-much-hotter-phoenix-az-nights-are-because-c-180951393/*	
+
+​		**4.3.2.6** **Other matter and energy**. Any other energy or matter that causes a nuisance, either because it collides with the affected person or their property in ways that a reasonable person would find distracting, unpleasant, worrying, or disruptive.
 ​			a. Mildly distracting events are given an `S` of 1.
 ​			b. Moderately distracting events are given an `S` of 2.
 ​			c. Moderately distracting events are given an `S` of 3.
@@ -185,7 +191,7 @@ Nuisances are harm as a result of distracting, unpleasant, or disrupting matter 
 2. Trespass to chattels: Harm to or loss of property
 3. Conversion to chattels: Harm to or loss of property
 4. Defamation: Reputational harm and mental harm.
-5. Intrusion upon seclusion and public disclosure of private facts: Reputational harm and mental harm.
+5. Intrusion upon seclusion and public disclosure of private facts: Reputational harm, mental harm, breach of contract assuming the contract promises privacy and has a remedy in place for that breach.
 6. Appropriation (eg identity theft): reputational harm, emotional or mental harm, and loss of time.
 
 ## 5. Right to suit
@@ -214,7 +220,7 @@ Nuisances are harm as a result of distracting, unpleasant, or disrupting matter 
 
 **6.4** Evidence presented:
 ​	**6.4.1**  must be relevant to the case.
-​	**6.4.2**  must be admissible. Hearsay and character evidence is not admissible without exceptional reason. Any evidence collected the release of which in court would constitute harm must have the value of that harm adjudicated prior to its use in court, and the plaintiff using such evidence must be held responsible for that harm regardless of the outcome of the case in which that evidence is used. **How is equivalences of harm determined for things like private in-confidence communication (eg between attorney, doctor, spouse, etc)? **
+​	**6.4.2**  must be admissible. Hearsay and character evidence is not admissible without exceptional reason. Any evidence collected where the release of which in court would constitute harm must have the value of that harm adjudicated prior to its use in court, and the plaintiff using such evidence must be held responsible for that harm regardless of the outcome of the case in which that evidence is used. 
 ​	**6.4.3**  Witnesses must be competent and credible to testify. 
 ​	**6.4.4**  The best available evidence must be used (eg an original document vs copies). 
 

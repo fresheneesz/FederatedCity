@@ -1,25 +1,5 @@
 # City government
 
-## Summary
-
-*This summary is non-normative*
-
-* A government based on economic principles. 
-* Federal design with a city government and many borough governments within it.
-* Strict limitations on borough size and shape, to ensure that "voting with your feet" is easy. 
-* Right of secession with certain requirements.
-* City government limited to designating a minimal network of roads and paths, designating nature-space, and settling disputes with borough and city government. 
-* Borough government limited to defining property rights, promoting efficient competition, taxing or subsidizing externalities, income tax only if necessary, resolving disputes that can't be resolved privately, very limited licensure and information disclosure requirements, UBI as the only welfare option, limited externality-based zoning, and designation of further travel ways, parks, and nature space.
-* Two legislative bodies that both must approve changes to the law: council and the people (via local committees)
-* Voting weighted by population vs owned land value vs owned land area must also both pass.
-* Limited amount of action council can take per year (in terms of length of time and number of laws) so that the people don't need to spend much of their lives thinking about and considering fighting / supporting legal changes. Also inherently limits the power of politicians and the government.
-* Supermajority requirement for laws (60%)
-* Statutory law.
-* Consequentialist outcome-based law. The law may not reward or punish specific methods and means, and must only prescribe outcomes. 
-* Right to choose private law
-* Use of force is equal to all but limited.
-* Military and national defense is assumed to be taken care of by a higher government. 
-
 ## City Government Structure and Powers
 
 The city may not use or delegate powers that aren't explicitly enumerated in this constitution.
@@ -65,12 +45,12 @@ There are two legislative bodies: the council and local committees.
 * **3.F** The local committees can reduce or forgive a sentence for constitutional violation with a 75% passing vote.
 * **3.G** Any proposed change to the law or constitution must be first proposed and made public, and to enact the change, a passing vote must happen after 3 months if it being publicly proposed.
   * *Justification: This gives the public time to think about, deliberate on, and mount a defense against the proposal before it can be enacted.*
-* **3.G** A proposal passed in either legislative body expires after 1 year. A proposal that is 80% similar to such an expired proposal may not be voted on by the other body for at least 6 months afterward. 
-* **3.H** The council may not vote to initiate any proposal while any proposal passed by the local committee can be voted on by the council. 
+* **3.H** A proposal passed in either legislative body expires after 1 year. A proposal that is 80% similar to such an expired proposal may not be voted on by the other body for at least 6 months afterward. 
+* **3.I** The council may not vote to initiate any proposal while any proposal passed by the local committee can be voted on by the council. 
   * *Justification: This prevents the council from simply ignoring the local committees.*
-* **3.I** The council may not vote on any proposal while any court order of legal clarification is pending waiting for council action that isn't related to that legal clarification order. 
+* **3.J** The council may not vote on any proposal while any court order of legal clarification is pending waiting for council action that isn't related to that legal clarification order. 
   * *Justification: This prevents the council from simply ignoring the courts when an ambiguity is identified and escalated.*
-* **3.J** For the first 5 years of the city, the council can take official actions 6 months out of the year and can propose up to 6,000 words of law, and 6,000 words of city and borough limitations per year. 
+* **3.K** For the first 5 years of the city, the council can take official actions 6 months out of the year and can propose up to 6,000 words of law, and 6,000 words of city and borough limitations per year. 
   * *Justification: there may be more need of flexibility and touch ups to the law in the beginning as its likely more problems and lessons will come up early on.*
 
 **4. Legislative powers:**
@@ -102,12 +82,12 @@ The following power is passable with a vote through local committees only. Any v
 
 **6.A** The judicial branch generally consists of private courts selected by the legislature to judge disputes between people of different boroughs or between a person and a borough's government. 
 
-**6.B** Court proceedings on behalf of the city government will be conducted using statutory law. Common law is not used. Precedent may be used in argument, but is not law. Law and contract may be interpreted by any defendant in any way a reasonable person might literally interpret it. Constitutional provisions must be interpreted with the literal meaning intended when the constitutional provision was added to the constitution.  
+**6.B** Court proceedings on behalf of the city government will be conducted using statutory law. Common law is not used. Precedent may be used in argument, but is not law. Law and contract may be interpreted by any defendant in any way a reasonable person is likely to interpret it. Constitutional provisions must be interpreted with the literal meaning intended when the constitutional provision was added to the constitution.  
 
 **7. City court powers:**
 
 * **7.A** Issuing warrants to qualifying citizen applicants for arrest, search, seizure, compulsion of appearing as a witness in court, and compulsion of furnishing evidence in court.
-* **7.B** Ordering the legislature to update a law to clarify an ambiguity. 
+* **7.B** Ordering the legislature to update a law to clarify an ambiguity. In such a case, any existing cases in which that ambiguity arose should not be delayed on the basis of such an order unless both plaintiff and defendant agree to the delay.
   * *Justification: This seems far better than allowing courts to create law in cases of ambiguity.*
 * **7.C** Determining the jurisdiction in which a dispute will be decided when there is ambiguity in what the jurisdiction for a particular case should be. This may include splitting a case into multiple cases if different parts of the case should be handled in different jurisdictions.
 * **7.D** Determining the outcome of disputes between a person and a borough's government, including appealing borough court decisions.
@@ -258,7 +238,7 @@ These are limitations on all people within the borders of the city, regardless o
   * **12.A** Use of force may only be used when the exercise of persuasion, advice, and warning is found to be insufficient to protect the rights of oneself or another. When force is used, a force may be used that is no greater than the minimum degree of physical force a reasonable person would think is necessary to protect the rights of oneself or another.
 * Policing
   * Detainment
-    * **12.B** No person or property may be detained without reasonable suspicion of the active violation of someone else's rights and being informed of such.
+    * **12.B** No person or property may be detained without reasonable suspicion of the unremediated violation of someone else's rights and being informed of such.
     * **12.C** No person or property may be detained for longer than reasonable suspicion exists nor longer than it should take to determine whether probable cause exists. 
   * Search
     * **12.D** Forcible search of items on a person may not be done without the person being lawfully detained or arrested.

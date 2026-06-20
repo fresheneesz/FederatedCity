@@ -19,7 +19,8 @@
      Next, if the defendant's identity is known, the private code of law is chosen according to what codes of law the plaintiff and defendant have opted into. The case then continues according to that code of law. If the defendant's identity is not known, the case then continues according to default borough law. 
 * **2.3** If suit is brought up and harm is shown with adequate proof and that harm was being caused for more than the plaintiff, 10%-20% of the total harm-done (up to a maximum of the lesser of $200,000 or 1% of the portion above that amount) is additionally awarded to the plaintiff. All the rest of the restitution collected is distributed to each harmed individual by estimated amount of harm for the 100 most harmed people, and if there are more than 100, the rest will receive even portions. This includes in cases where a large fraction of a borough is harmed (eg pollution). In cases where harmed individuals can be counted but not identified, their portion of compensation will be returned to the residents of the borough evenly.
   * *Justification: This provides an incentive for private individuals to investigate and prove harm caused to others that might otherwise be too costly to enforce on an individual basis.*
-* **2.4** Any suit brought officially but settled out of court must have the settlement made public.
+* **2.4** Any suit brought officially but settled out of court must have the settlement made public. Any suit brought officially on behalf of a group must ensure that the benefits received by the primary plaintiff vs the group does not exceed the fraction of benefit they could have received if the case had been decided in court.
+  * *Justification: settlements should not be used to obscure whether the defendant was guilty or not, nor to enrich the plaintiff at the expense of those the plaintiff represents.*
 * Holding facilities
   * **2.5** Holding facilities will be paid out for prison vouchers in the following way:
     * A recidivism score will be calculated each year for each relevant holding facility. Each former-prisoner is given a recidivism score equal to the total amount of prison time they are sentenced to in the 4 years following release from a holding facility will be divided by the time of the prison sentences they were serving in the previous 4 years. The score for the holding facility will be the sum of score for each former-prisoner. 
@@ -69,12 +70,13 @@
 Land held by the borough will have, when sold, the following Land rights for the purchaser:
 
 * **4.1** Right to exclude others from causing matter or energy, of a kind or quantity that doesn't usually or naturally occur on that land, to enter their land. 
-* **4.2** Right to prevent others from reducing matter or energy of a kind that usually and naturally occurs on that land from entering that land by more than 10%, excepting flows that naturally cross many property boundaries (like water). 
-    * *This needs to consider airflow rights, sunlight and indirect light rights, and rainfall collection rights. But I don't know how to best define this.*
-* **4.3** Right to prevent others from reducing flows that usually and naturally occur (like water flows) from entering that land by more than 1% of the natural upstream flow per mile.
+* **4.2** Right to prevent others from reducing matter or energy of a kind that usually and naturally occurs on that land from entering that land by more than 10%, excepting the ground flows covered by 4.3.
+    * *Justification: Things like airflow, sunlight, natural indirect light, audible environment, rainfall, etc can all be important natural amenities of the land and neighbors that significantly impact those things should contract to that effect or compensate their neighbors for it.*
+* **4.3** Right to prevent others from reducing liquids, solids, or heavier-than-air gasses that usually and naturally flow on or under the ground (eg flows of water) from entering that land by more than 1% of the natural upstream flow per mile.
+    * *Justification: This is different from airflow and energy flow because it has a defined pathway that can be relied upon, rather than the more chaotic environment of things like airflow and energy dispersion.*
 * **4.4** The owner of land owns the space above it up to 70 feet above the ground at the property line, with the height limit increasing 10 feet for every 1 foot of distance from the property line. The owner also owns 200 feet below the ground to the extent that doing so doesn't damage natural cave systems at least partially owned by a different owner or that doing so doesn't violate the previous two rights (about matter and energy), for example by disrupting the water table. 
-* Properties are allowed an arbitrary choice of 8x8 square per quarter-acre they can build on with no height limit. This right is not natively usable by properties less than a quarter-acre, but the fractional right is transferrable. 
-    * Perhaps the last two rules can be generalized by allowing any  building above the height limit as long as it blocks less than an average of X area of light per hour of daylight within a 400 meter radius. This would open the door for all sorts of interesting spires, causeways, and other things to be experimented. For example, you could imagine a building on stilts elevated 100 meters in the air serving as additional space on the property without blocking much light during the day. 
+    * **4.4.1** Properties are allowed an arbitrary choice of 8x8 square per quarter-acre they can build on with no height limit. This right is not natively usable by properties less than a quarter-acre, but the fractional right is transferrable. A property is allowed to build other structures at any height if it can be shown that the amount of light and air that it blocks on properties within 1000 feet is no more than some chosen 8x8 square of infinite height. 
+        * *Justification: This would open the door for all sorts of interesting spires, causeways, and other things to be experimented. For example, you could imagine a building on stilts elevated 100 meters in the air serving as additional space on the property without blocking much light during the day.*
 * Properties are allowed to build parts of buildings that overhang their adjacent public way such that a maximum area of the width of the public way multiplied by 5% of its length has overhangs above it. These rights are transferrable to anyone else within 600 feet on a given public way. 
     * This allows buildings to have connections across public ways or overhanging rooms.
 * **4.5** Discovered natural cave systems that span below multiple properties are jointly owned by the property owners of the land above them where each owner has a fractional ownership proportional to the fraction of total cave volume. Decisions impacting the cave system must be made with a 60% vote of the owner proportional to their ownership fractions. Ownership fractions can be sold. 
@@ -115,11 +117,11 @@ Land held by the borough will have, when sold, the following Land rights for the
 
 **5.12** To safeguard assets given to the ward.
 
-**5.13** The guardians take responsibility for any court ordered remedies for harm caused by the ward. The guardians can choose to spread the burden of such remedies amongst the guardians and the ward in question. 
+**5.13** The guardians take responsibility for any court ordered remedies for harm caused by the ward, other than remedies the court requires the ward to serve because of their risk of flight or continued threat. The guardians can choose to spread the burden of such remedies amongst the guardians and the ward in question.
 
 * *For example, if confinement is ordered by a court, one or more guardians can choose to serve all or part of the sentence in place of the ward.*
 
-**5.13** Unless specified on initiation or change of status of a guardian, guardians share equal responsibilities. 
+**5.14** Unless specified on initiation or change of status of a guardian, guardians share equal responsibilities. 
 
 ### Rights of a guardian
 A guardian has the right to:
@@ -131,7 +133,13 @@ A guardian has the right to:
 
 **5.16** A ward age 14 or older of normal mental development has autonomy over their own body as far as making decisions about natural bodily functions, including sex, and refraining from putting unnatural things in their body (such as medicine or medical devices).
 
-**5.17** Minors may create contracts, but must have guardian consent for any contracts that require a high cost (time, money, etc), long-term obligations, or potential danger to the minor. A high cost is acceptable for immediate life necessities as long as the cost is a justifiably fair market price. Length of time and amount of cost both scale up with age (**how?**). 
+**5.17** Minors may create contracts, but must have guardian consent for any contracts that require a high cost (time, money, etc), long-term obligations, or potential danger to the minor. A high cost is acceptable for immediate life necessities as long as the cost is a justifiably fair market price. Length of time and amount of cost both scale up with age in the following way: 
+
+* Under 10 years old: Contracts with a value for either side of less than $20 and time commitment of less than 1 hour.
+* 10-11 years old: Contracts with cost and time commitments by the minor of less than $100 and less than 1 day.
+* 12-13 years old: Contracts with cost and time commitments by the minor of less than $200 and less than 1 week.
+* 14-15 years old: Contracts with cost and time commitments by the minor of less than $400 and less than 1 month.
+* Minor over 15 years old: Contracts with cost and time commitments by the minor of less than $2000 and less than 6 months.
 
 **5.18** A person must be mentally competent at the time of contract contract acceptance and must appear mentally competent to the contract offeror without reasonable doubt. Otherwise their guardian must also agree to the contract. While the offeror has a responsibility to investigate reasonable doubt of mental incompetence, even with no outward signs of mental incompetence a contract may be voidable if it can be shown that the acceptor was mentally incompetent at the time of acceptance and did not explicitly or implicitly affirm the acceptance at a later time of lucidity. In cases of negligent contracting, the contract is void. In such cases of unexpected incompetence, the harmed party may be awarded no more than 10% of the compensation that would result from a competent counterparty.
 
