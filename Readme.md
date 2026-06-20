@@ -27,3 +27,7 @@ This set of legal documents creates a federated government system that has the f
   * [Borough Laws](Recommended Borough Laws.md)
 * Suggested [Private Legal Code](Recommended Private Legal Code.md) - A legal code intended to replace common law and standard statutory laws. It can do this with such a small legal code because all court ordered remedies must be based on assessments of actual harm done, statements are interpreted in ways a reasonable person would understand the text of statutes that the defendant believes is most favorable to theirself, courts are empowered to resolve ambiguities using statute-based logic in a non-precedent-setting manor, and fairness is achieved through competition between private court companies rather than through precedent and judicial activism. 
 * Suggested [Private Institutions](Recommended Private Institutions.md) - A document that has recommendations for company policy of private institutions like private courts, private police, etc. 
+
+### Other
+
+[Auto LARP](Auto-LARP.md) - This document explains how you can use an AI as a judge to adjudicate a court case with human plaintiff and defendant.
