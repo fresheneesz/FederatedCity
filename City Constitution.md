@@ -21,8 +21,8 @@ There are two legislative bodies: the council and local committees.
 
 **2. Local committees:**
 
-* **2.A** Local committees are made up of residents and land owners. Each boroughs define how local committees operates in their jurisdiction.
-* **2.B** When all committees have voted on a particular proposal, if the total vote among all the local committees in the city passes, proposal passes for the local committees.
+* **2.A** Local committees are made up of residents and land owners. Each borough defines how local committees operate in their jurisdiction.
+* **2.B** When all committees have voted on a particular proposal, if the total vote among all the local committees in the city passes, the proposal passes for the local committees.
 * **2.C** Like council members, votes are weighted in three different ways:
   * Weighting methods:
     * Resident weighting: Every resident voter gets equal weight, non-residents get 0 weight. One must live in the borough for greater than 50% of the year to be considered a resident. 
@@ -31,7 +31,7 @@ There are two legislative bodies: the council and local committees.
 
 **3. Council and local committee actions:**
 
-* **3.A** An "X% passing vote" in this section means that both legislative bodies pass the proposal with a vote of X% using all three weighting methods. An "X% limiting vote" in this section means that either legislative body pass the proposal with a vote of X% using any one of the three weighting methods. 
+* **3.A** An "X% passing vote" in this section means that both legislative bodies pass the proposal with a vote of X% using all three weighting methods. An "X% limiting vote" in this section means that either legislative body passes the proposal with a vote of X% using any one of the three weighting methods. 
   * *Justification: Both council members and citizens must vote on things because elected leaders are in a position to more fully investigate and voice their leadership in a way most citizens can't, elected leaders can be held accountable for constitutional violations in a way citizens can't, but a vote of the citizens ensures that if politicians lie about their preferences, those lies can't translate into adverse policy.*
   * *Justification: The "limiting vote" only requires one legislative body and only one of the three weighting methods because it is the inverse of a passing vote and will only be used to limit the government.*
 * **3.B** A law can be created with a 60% passing vote. A law that only contains government limitations can be repealed with a 60% passing vote. Up to 2000 words of law can be proposed per year by each legislative body.
@@ -43,7 +43,7 @@ There are two legislative bodies: the council and local committees.
 * **3.E** A constitutional amendment can be created with a 75% passing vote by local committees only. 
   * *Justification: Politicians are limited by the constitution and so have a conflict of interest. Therefore politicians should not be able to block constitutional changes.*
 * **3.F** The local committees can reduce or forgive a sentence for constitutional violation with a 75% passing vote.
-* **3.G** Any proposed change to the law or constitution must be first proposed and made public, and to enact the change, a passing vote must happen after 3 months if it being publicly proposed.
+* **3.G** Any proposed change to the law or constitution must be first proposed and made public, and to enact the change, a passing vote must happen after 3 months of it being publicly proposed.
   * *Justification: This gives the public time to think about, deliberate on, and mount a defense against the proposal before it can be enacted.*
 * **3.H** A proposal passed in either legislative body expires after 1 year. A proposal that is 80% similar to such an expired proposal may not be voted on by the other body for at least 6 months afterward. 
 * **3.I** The council may not vote to initiate any proposal while any proposal passed by the local committee can be voted on by the council. 
@@ -65,8 +65,8 @@ There are two legislative bodies: the council and local committees.
 * **4.C** Courts and police
   * Creating requirements and standards the city's chosen private courts and police must follow.
   * Contracting with or operating a police force that may be no larger than the largest private police force or borough police force in the city. This police force may only be used to enforce rulings by the city court. 
-* **4.C** Collecting tax from boroughs. The amount of tax collected must be specified as a single percentage of the tax collected by any given borough. 
-* **4.D** Placing limitations, for the purpose of safety and security, on the possession of physical items with at least as much potential for physical harm as gun that fires bullets of a caliber larger than 5mm.
+* **4.D** Collecting tax from boroughs. The amount of tax collected must be specified as a single percentage of the tax collected by any given borough. 
+* **4.E** Placing limitations, for the purpose of safety and security, on the possession of physical items with at least as much potential for physical harm as a gun that fires bullets of a caliber larger than 5mm.
 
 **5. Local Committee Powers**
 
@@ -100,13 +100,13 @@ The following power is passable with a vote through local committees only. Any v
   * Prison time for the culprit, only if A. the person is an active substantial danger to others or B. if they cannot pay a fine high enough to cover the damages and other methods have been shown to be ineffective.
   * Temporary or permanent expulsion from the jurisdiction.
 * **7.F** To order an outcome against a person that involves only a transfer of money, rehabilitation, or therapy, there must be clear and convincing evidence, according to the law at the time of the act, that the person was at fault and that the harm done was not lower than estimated.
-* **7.G** To order an outcome against a person that involves something other than a transfer of money, rehabilitation training, or therapy, it must be beyond a reasonable doubt that, according to the law at the time of the act, that the person was at fault and that the harm done was not lower than estimated.
+* **7.G** To order an outcome against a person that involves something other than a transfer of money, rehabilitation training, or therapy, it must be beyond a reasonable doubt that, according to the law at the time of the act, the person was at fault and that the harm done was not lower than estimated.
   * *Justification: The burden of proof should be greater here because the punishment is more costly to society. While in a transfer of money as payment of damages, the receiver of the damage payment gains as much as the payer loses, the same cannot be said for eg prison time. Therefore we should be more sure of these kinds of punishments.*
 * **7.H** The cost of any punishments to the offender may not exceed `(DH + SC)/L + OB + 10% * CF`, where
-  * the "cost of any punishments", includes any any court ordered outcomes including prison time, jail time, time arrested or detained, and in the case where no settlement was proposed that carried a lower cost to the defendant than the final outcome, time in court. 
+  * the "cost of any punishments", includes any court ordered outcomes including prison time, jail time, time arrested or detained, and in the case where no settlement was proposed that carried a lower cost to the defendant than the final outcome, time in court. 
   * `DH` is the Direct Harm done to the victim. This does not include any costs to the victim in bringing suit to the offender. 
   * `SC` is the Societal Cost, the estimated average or marginal cost that this type of harm places on society for each instance.
-    * *These are things like the effort and time people must take to be vigilant again harm, preparation to defend themselves, the mental stress involved in that, and opportunity costs for things not done because of the risk of harm from others. The "societal cost" may be included in the estimation of harm done even tho this may sometime or even always result in greater than optimally efficient punishments, because it isn't clear whether or not this is the case. This wiggle room leaves it up to the boroughs to decide what they think is optimal.*
+    * *These are things like the effort and time people must take to be vigilant against harm, preparation to defend themselves, the mental stress involved in that, and opportunity costs for things not done because of the risk of harm from others. The "societal cost" may be included in the estimation of harm done even tho this may sometime or even always result in greater than optimally efficient punishments, because it isn't clear whether or not this is the case. This wiggle room leaves it up to the boroughs to decide what they think is optimal.*
   * `L` is the Likelihood of getting caught with enough evidence to be found guilty. 
     * Things such as incidence (ratio of incidents caught divided by estimated total incidents), intent (negligence vs premeditation), ability to or effort made to avoid getting caught or minimize evidence, level of ability to or effort made to avoid harm in the case of negligence, and the like can be used to justify the level of this likelihood.
     * L must be no lower than 1% - if it would be lower than 1%, the value 1% should be used.
@@ -143,7 +143,7 @@ Additional justifications: *Damage done is the obvious metric by which to decide
 
 ## 10. Borough powers
 
-A borough may not use powers that aren't explicitly enumerated in this constitution. Borough's can use the following powers:
+A borough may not use powers that aren't explicitly enumerated in this constitution. Boroughs can use the following powers:
 
 * **10.A** Creating laws defining property rights, contract law, equivalences of harm (ie assigning a monetary value to a particular amount of a type of harm), and dispute resolution requirements.
   * **10.A.1** Harm must be actual harm done or risk imposition. In the case of risk imposition, this must be a concrete physical state or condition created by the person who allegedly caused harm by risk imposition that increases the probability of manifest harm, and may not be based on that person's estimated mental state.
@@ -170,7 +170,7 @@ A borough may not use powers that aren't explicitly enumerated in this constitut
   * **10.O** Borrowing money for the purposes of alleviating an emergency that affects more than 500 people. The city may not borrow more than 20% of its yearly tax revenue, and any borrowed money must be paid back within 4 years.
 * **10.P** Creating a welfare program in the form of a universal basic income. The total of yearly payouts may not exceed 10% of the government's yearly tax revenue and also may not exceed 0.1% of the total GDP of the borough.
   * *Justification: When the tax money for welfare comes from a land value tax, the tapering of a negative income tax has [effects similar to a tax](https://micahe.substack.com/p/means-testing-is-an-inefficient-tax?r=1fcmli)* *which causes deadweight losses. UBI does not have this problem when funded with LVT (tho it would if it were funded with other taxes).*
-  * *Justification: Only the borough is allowed to have a welfare program and not the city, so that the affects of that program can be compared to adjacent boroughs.*
+  * *Justification: Only the borough is allowed to have a welfare program and not the city, so that the effects of that program can be compared to adjacent boroughs.*
 * Land use
   * **10.Q** Creating zones that have differentiated laws related to externalities.
   * **10.R** Designating additional travel ways beyond city-designated ways.
@@ -187,9 +187,9 @@ A borough may not use powers that aren't explicitly enumerated in this constitut
 
 * **11.A.1** A preponderance of evidence must show that a law is expected to benefit society more than it costs society before it can be enacted into law.
 * **11.A.2** Violations of the constitution and attempted violations will be treated as serious crimes and will have serious consequences. A constitutional offense is defined as any decision or supporting vote by an official of or acting under the direct or indirect direction of a city or borough government for a law, decision, or action that is later determined to violate the constitution by a judicial consortium. A convicted person is suspended from office or position and the action is considered damage equivalent to between 1-20% of their wealth. 
-* **11.A.3** Property rights or other laws defined at higher levels of government than the city can not be enforced by city, borough, or private courts selected as part of this constitution unless the relevant legislature or contract specifically opts into the enforcement of the relevant specific higher-level law. By default, otherwise enforcement of those laws is left to state and federal police and courts and all claims arising under Texas, Federal, or County law are expressly excluded and split from the claim. People agree to waive a defense of Res Judicata in cases where this wavier of higher-level rights is unenforceable and the plaintiff decides to also bring the case concerning claims separate from those decided in courts empowered by this constitution (eg claims arising from state/federal law). If a dispute involves both Borough and higher level claims, the parties agree to joint motion to stay the case until the higher-level court determines the statutory issues.
+* **11.A.3** Property rights or other laws defined at higher levels of government than the city cannot be enforced by city, borough, or private courts selected as part of this constitution unless the relevant legislature or contract specifically opts into the enforcement of the relevant specific higher-level law. By default, otherwise enforcement of those laws is left to state and federal police and courts and all claims arising under Texas, Federal, or County law are expressly excluded and split from the claim. People agree to waive a defense of Res Judicata in cases where this waiver of higher-level rights is unenforceable and the plaintiff decides to also bring the case concerning claims separate from those decided in courts empowered by this constitution (eg claims arising from state/federal law). If a dispute involves both Borough and higher level claims, the parties agree to joint motion to stay the case until the higher-level court determines the statutory issues.
   * *Justification: This isolates the city from state and federal power and laws, which may work very poorly in an environment where laws are enforced with full economic efficiency.*
-  * *Justification:  The provisions waiving Res Judicata and an agreement to stay the case when there are claims comingled with higher level law are to avoid collateral estoppel and voiding of city/borough court decisions when they must leave higher level law for higher level courts and make court decisions without considering those higher level laws.*
+  * *Justification:  The provisions waiving Res Judicata and an agreement to stay the case when there are claims commingled with higher level law are to avoid collateral estoppel and voiding of city/borough court decisions when they must leave higher level law for higher level courts and make court decisions without considering those higher level laws.*
 * **11.A.4** Laws passed in a borough around negative externalities (including intrusion of matter and energy such as sound, light, smells, etc) will be respected by those at the border in a different borough. 
   * For example, if a person in borough A creates enough noise to violate borough B's noise ordinance within the borders of borough B, that person can be prosecuted and if brought to city court that prosecution must be upheld. 
   * *Justification: Violating property rights should be corrected regardless of where the violator was when they acted in a violating manner.*
@@ -206,7 +206,7 @@ A "right" in this section means that a city or borough government cannot put any
 * **11.B.3** Freedom of thought, expression, religion, and assembly in ways that do not cause direct and immediate harm to another.
 * **11.B.4** Right to sue, including the right to sue officials and agencies of the city and boroughs for breach of constitution, law, or private contract that person is party to. The government does not have sovereign immunity and cannot grant immunity from suit to anyone. 
 * **11.B.5** Freedom to be assumed innocent until proven guilty. One must never have to legally defend oneself until the party bringing up charges or suit has been determined to have a case that would not end in favor of the accused without legal defense.
-* **11.B.6** Right to secede from one borough and create a new borough or join and adjacent borough as a group. This requires a contiguous block of land containing at least 50 adult residents and at least 25 acres and requires approval by a land-value weighted 75% vote by the land owners as well as a land-area weighted 75% vote by the land owners. Any successful secession vote will take affect in a timeframe to be specified by city law, no sooner than 4 months after the successful vote.
+* **11.B.6** Right to secede from one borough and create a new borough or join an adjacent borough as a group. This requires a contiguous block of land containing at least 50 adult residents and at least 25 acres and requires approval by a land-value weighted 75% vote by the land owners as well as a land-area weighted 75% vote by the land owners. Any successful secession vote will take effect in a timeframe to be specified by city law, no sooner than 4 months after the successful vote.
   * *Justification: This vote is done by land-value and land-area but not residency because the jurisdiction that a property is in should be the sole purview of the land owner, not any renter.*
 * Dispute rights
   * Right to choose private law. 
@@ -248,14 +248,14 @@ These are limitations on all people within the borders of the city, regardless o
   * Arrests
     * **12.G** An arrest is only permitted if the estimated flight risk is great enough when evaluated against the estimated damage done, or if risk of repeat offense is estimated to be high, and the person to be arrested is informed of these details. 
   * Holding at a holding facility
-    * **12.H** No person or property other than weapons for which the validity of the arrest or seizure has not been affirmed may be forcibly held longer than it should reasonably take for the appropriate court to affirm or disaffirmed that validity. No weapons seized without affirmation of a probable cause may be held longer than the owner. 
-    * **12.I** No person or property may be forcibly held for longer than it should take for a trial to begun for their case or for longer than their court ordered sentence. 
+    * **12.H** No person or property other than weapons for which the validity of the arrest or seizure has not been affirmed may be forcibly held longer than it should reasonably take for the appropriate court to affirm or disaffirm that validity. No weapons seized without affirmation of a probable cause may be held longer than the owner. 
+    * **12.I** No person or property may be forcibly held for longer than it should take for a trial to begin for their case or for longer than their court ordered sentence. 
     * **12.J** When it is necessary to bring a person to a temporary holding facility or prison, at least 3 choices of independent companies must be offered. Each of these companies must not have overlap in direct nor indirect ownership. If the person to be held has ownership in one of the options, that person is only offered the 2 options they do not have ownership in.
     * **12.K** Any person forcibly held keeps all their rights except the right to leave the designated holding area. 
     * **12.L** Any person forcibly held must have adequate regular access to communicate with the outside world. 
     * **12.M** Holding facilities may not forbid recording (eg of video or audio) by any person at the facility.
     * **12.N** Any person forcibly held for longer than 10 hours must be given a private, clean, secure sleeping place with a door that they can lock. 
   * Compensation
-    * **12.O** A person detained, forcible searched, subject to seizure, arrested, or forcibly held, regardless of the outcome of any related court case, is owed compensation proportional to the time and level of inconvenience by the party that inconvenienced them.  This compensation may include a reduction in remedies that burden the person in question.
+    * **12.O** A person detained, forcibly searched, subject to seizure, arrested, or forcibly held, regardless of the outcome of any related court case, is owed compensation proportional to the time and level of inconvenience by the party that inconvenienced them.  This compensation may include a reduction in remedies that burden the person in question.
 * **12.P** To the fullest extent that law of higher-level governments allows, those within the city must agree to not sue or press charges against anyone in a court of any higher-level government for events that affected you within the borders of the freestead by a person or entity under the jurisdiction of the freestead except as described by the freestead’s legal codes.
 
